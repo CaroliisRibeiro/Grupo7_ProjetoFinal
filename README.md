@@ -115,3 +115,7 @@ Vide 📁 forks
 
 ### Referência completa:
 GOOGLE. Análise de notebook Colab e geração de prompts e referências bibliográficas. Ferramenta de IA Gemini. 2025. Inteligência Artificial. Disponível em: https://g.co/gemini/share/1628bf445bc2180c. Acesso em: 5 out. 2025.
+
+### Outros Materias:
+Carnival Business Plan Presentation: https://slidesgo.com/theme/how-to-start-a-carnival-business-plan#search-carnaval&position-2&results-19&rs=search&rs=search
+
