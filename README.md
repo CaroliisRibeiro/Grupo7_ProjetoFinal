@@ -82,12 +82,6 @@ Essa melhoria permitirá maior comparabilidade ao longo dos anos e dados mais co
 <br>
 
 ### **10- Dashboard**
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a81cdca6-84ad-4b97-a953-69ce1dc0f546" alt="Imagem 1" width="44%">
-  <img src="https://github.com/user-attachments/assets/077f854a-1a37-433f-a962-0875b7835ccb" alt="Imagem 2" width="45%">
-</p>
-
-<br>
 
 #### **👉 Acesse aqui o Dashboard Carnaval BH**
 https://lookerstudio.google.com/reporting/43b29738-5b3d-4c45-b844-e62506586e76/page/mTNaF/edit
@@ -121,3 +115,7 @@ Vide 📁 forks
 
 ### Referência completa:
 GOOGLE. Análise de notebook Colab e geração de prompts e referências bibliográficas. Ferramenta de IA Gemini. 2025. Inteligência Artificial. Disponível em: https://g.co/gemini/share/1628bf445bc2180c. Acesso em: 5 out. 2025.
+
+### Outros Materias:
+Carnival Business Plan Presentation: https://slidesgo.com/theme/how-to-start-a-carnival-business-plan#search-carnaval&position-2&results-19&rs=search&rs=search
+
